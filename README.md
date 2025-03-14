@@ -1,4 +1,4 @@
-ashion MNIST Classification using TensorFlow
+Fashion MNIST Classification using TensorFlow
 
 📌 Overview
 
